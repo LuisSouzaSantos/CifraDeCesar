@@ -1,7 +1,7 @@
 
 public class Cipher {
 	
-    private static final String ALPHABET = "AaÁáÂâBbCcÇçDdEeÉéÊêFfGgHhIiÍíJjKkLlMmNnOoÓóÔôPpQqRrSsTtUuÚúÜüVvWwXxYyZz";
+    private static final String ALPHABET = "AaÁáÀàÂâBbCcÇçDdEeÉéÊêFfGgHhIiÍíJjKkLlMmNnOoÓóÔôPpQqRrSsTtUuÚúÜüVvWwXxYyZz";
     private static final String RECOVER_MESSAGE = "#### FAZ O PIX BB: CHAVE 123.456.789.12 ####";
 
     public static String decode(String message, int key) {
