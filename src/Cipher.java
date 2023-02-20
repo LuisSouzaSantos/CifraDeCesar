@@ -22,7 +22,7 @@ public class Cipher {
             }
         }
 
-        return decodedMessage;
+        return decodedMessage.trim();
     }
     
     public static String encode(String message, int key) {
