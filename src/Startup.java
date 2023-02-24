@@ -2,6 +2,16 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
+/*
+ * Luis Gustavo De Souza Santos ]
+ * Igor Nunes
+ * Guilherme Harich
+ * Priscila Alves
+ * 
+ * EC10
+ * 
+ * */
+
 public class Startup {
 
 	public static void main(String[] args) throws IOException {
